@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "PAC 2 - Tècniques de visualització"
-permalink: https://ecasellas.github.io/uoc-visualitzacio/pac2
+permalink: https://ecasellas.github.io/uoc-visualitzacio/
 ---
 
 # Entregues
