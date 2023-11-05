@@ -16,5 +16,5 @@ Primera tècnica per a la segona PAC.
 
 En aquest cas he optat per una línia del temps amb els Papes de l'església catòlica des del primer pontificat iniciat el segle XX, el de Pius X, fins avui.
 
-<iframe src="https://ecasellas.github.io/uoc-visualitzacio/timeline/timeline.html" width="100%" height="600px"></iframe>
+<iframe src="https://ecasellas.github.io/uoc-visualitzacio/timeline/timeline.html" frameborder="0" width="100%" height="450"></iframe>
 
