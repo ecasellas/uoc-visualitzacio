@@ -13,7 +13,7 @@ Primera tècnica per a la segona PAC.
 
 ![Primera-Timeline](https://www.researchgate.net/profile/Samuel-Huron/publication/278827040/figure/fig2/AS:614374695788545@1523489750341/First-timeline-charts-by-Joseph-Priestley-1765_W640.jpg "Figura 1. Timeline de Jospeh Priestley, 1765.")
 
-**Descripció i funcionament**:
+**Descripció i funcionament**: Aquesta visualització permet representar una seqüència d'esdeveniments, ja sigui del passat o del futur. Amb ella es pot dotar de context uns fets o ordenar-los cronològicament a partir d'un eix que representa el temps, normalment horitzontal tot i que també pot ser vertical. A més, permet veure la durada dels esdeveniments i possibles solapaments, així com analitzar canvis i tendències al llarg del temps.
 
 **Exemples d'aplicació**:
 
