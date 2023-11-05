@@ -20,5 +20,5 @@ function drawChart() {
     [ 'Benedict XVI', new Date(2005, 4, 19),  new Date(2013, 2, 28) ],
     [ 'Francis I', new Date(2013, 3, 13),  new Date(2023, 10, 9) ]]);
 
-  chart.draw(dataTable, {hAxis: {gridlines: {count: 10}}});
+  chart.draw(dataTable, {hAxis: {gridlines: {count: 10}}, vAxis: {gridlines: {count: 10}}});
 }
