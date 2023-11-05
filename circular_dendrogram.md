@@ -23,11 +23,11 @@ Captura https://royalsocietypublishing.org/doi/epdf/10.1098/rsta.1901.0020
 
 ### Tipus de dades
 
-Crec que és important distingir les dades amb les quals es pot representar la gràfica i de les que s’hi poden aplicar metodologies que resultaran en relacions entre dades. Per a fer-ne la representació es necessiten dades que estiguin connectades entre elles, és a dir, que cada registre representi un node, del qual tingui altres nodes. Que finalment estaran connectats per les branques.
+El tipus de dades necessàries per a representar un dendrograma poden ser qualitatives i quantitatives, però amb la condició que hi hagi una relació entre elles que les connecti. Això vol dir que cada registre ha de representar un node, ja sigui l'origen, un d'intermig o el darrer, és a dir, que cada categoria pot tenir sub-categories. Ara bé, les dades d'inici sobre les quals s'hi apliquen algoritmes de classificació jeràrquica poden ser molt variades.
 
 ### Representació per a la PAC
 
-En aquest cas he optat per una representació jeràrquica Catalunya/Comarca/Municipis, però reduint les dades a només tres comarques per facilitar-ne la visualització.
+En aquest cas he optat per una representació jeràrquica Catalunya/Comarca/Municipis, però reduint les dades a només tres comarques per facilitar-ne la visualització. Per cada municipi s'inclou la població de la qual en depèn la mida de les fulles del dendrograma circular
 
 Les dades s'han extret de l'[IDESCAT](https://www.idescat.cat/), concretament d'[aquí](https://www.idescat.cat/indicadors/?id=aec&n=15903).
 
