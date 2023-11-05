@@ -17,6 +17,14 @@ Primera tècnica per a la segona PAC.
 
 **Exemples d'aplicació**:
 
+- Gestió d'un projecte mitjançant l'assignació de tasques a treballadors d'una empresa, diagrama de Gantt.
+- Representar un workflow, que segueix diversos passos.
+- Representar sèries temporals, com per exemple mostrar l'evolució del preu de l'energia al llarg del darrer mes.
+
+### Tipus de dades
+
+Poden ser qualitatives o quantitatives sempre que tinguin associades una cronologia, ja sigui en forma de pas o de data. Pel que fa a les dades quantitatives hi ha un mínim de dos registres per tal de poder traçar una línia, però no hi hauria màxim. En el cas de dades qualitatives, també seria recomanable que hi hagués més d'una categoria o element. En general, no presentaria un límit màxim de categories, però sí que un excés d'elements podria suposar una reducció de la llegibilitat o comprensió.
+
 ### Representació per a la PAC
 
 En aquest cas he optat per una línia del temps amb els Papes de l'església catòlica des del primer pontificat iniciat el segle XX, el de Pius X, fins avui.
