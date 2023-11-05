@@ -7,8 +7,10 @@ Primera tècnica per a la segona PAC.
 
 ### Característiques
 
-- **Nom**: Timeline
-- **Origen**: Una de les primeres *timeline* que es té notícia és la feta per Joseph Priestley el 1765 en la qual hi mostrava els filòsofs més importants des del 600 aC fins l'any 0, tal com es desprèn de la tesi d'[Huron (2015)](https://theses.hal.science/tel-02924469/).
+**Nom**: Timeline
+**Origen**: En la tesi *Constructive Visualization: A token-based paradigm allowing to assemble dynamic visual representation for non-experts* d'[Huron (2015)](https://theses.hal.science/tel-02924469/) s'indica que una de les primeres *timeline* de les que es té constància és la feta per Joseph Priestley el 1765. En aquesta *timeline* hi mostrava els filòsofs més importants des del 600 aC fins l'any 0, i és la que mostrem a continuació.
+
+![Primera-Timeline](https://www.researchgate.net/profile/Samuel-Huron/publication/278827040/figure/fig2/AS:614374695788545@1523489750341/First-timeline-charts-by-Joseph-Priestley-1765_W640.jpg)
 
 - **Descripció i funcionament**:
 - **Exemples d'aplicació**:
