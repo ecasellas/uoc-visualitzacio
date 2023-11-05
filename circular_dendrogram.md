@@ -31,6 +31,6 @@ En aquest cas he optat per una representació jeràrquica Catalunya/Comarca/Muni
 
 Les dades s'han extret de l'[IDESCAT](https://www.idescat.cat/), concretament d'[aquí](https://www.idescat.cat/indicadors/?id=aec&n=15903).
 
-![Circular-dendrogram](https://github.com/ecasellas/uoc-visualitzacio/tree/main/circular_dendrogram/circular_dendrogram.png)
+![Circular-dendrogram](https://github.com/ecasellas/uoc-visualitzacio/blob/main/circular_dendrogram/circular_dendrogram.png)
 
 El codi d'aquesta figura s'ha realitzat mitjançant [R](https://www.r-project.org/) i es pot trobar a [dendrogram.R](https://github.com/ecasellas/uoc-visualitzacio/tree/main/circular_dendrogram/dendrogram.R)
