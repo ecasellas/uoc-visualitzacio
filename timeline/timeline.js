@@ -5,7 +5,6 @@ function drawChart() {
   var chart = new google.visualization.Timeline(container);
   var dataTable = new google.visualization.DataTable();
 
-  // dataTable.addColumn({ type: 'string', id: 'Role'});
   dataTable.addColumn({ type: 'string', id: 'Pope' , width: '250px'});
   dataTable.addColumn({ type: 'date', id: 'Start' });
   dataTable.addColumn({ type: 'date', id: 'End' });
@@ -20,8 +19,6 @@ function drawChart() {
     [ 'Ven. John Paul II (John Paul the Great)', new Date(1978, 10, 16),  new Date(2005, 4, 2) ],
     [ 'Benedict XVI', new Date(2005, 4, 19),  new Date(2013, 2, 28) ],
     [ 'Francis I', new Date(2013, 3, 13),  new Date(2023, 10, 9) ]]);
-  var options = {
-    timeline: { groupByRowLabel: true }
-  };
+
   chart.draw(dataTable);
 }
