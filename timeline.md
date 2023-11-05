@@ -29,6 +29,8 @@ Poden ser qualitatives o quantitatives sempre que tinguin associades una cronolo
 
 En aquest cas he optat per una línia del temps amb els Papes de l'església catòlica des del primer pontificat iniciat el segle XX, el de Pius X, fins avui.
 
+Les dades s'han extret d'un repositori del diari [The Guardian](https://www.theguardian.com/) que es pot trobar [aquí](https://www.theguardian.com/news/datablog/2013/feb/13/popes-full-list#data)
+
 <iframe src="https://ecasellas.github.io/uoc-visualitzacio/timeline/timeline.html" frameborder="0" width="100%" height="520"></iframe>
 
 El codi d'aquesta figura s'ha realitzat mitjançant [Google Charts](http://developers.google.com/chart/) i es pot trobar a [timeline.js](https://github.com/ecasellas/uoc-visualitzacio/tree/main/timeline)
