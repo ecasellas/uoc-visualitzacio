@@ -9,6 +9,7 @@ Primera tècnica per a la segona PAC.
 
 - **Nom**: Timeline
 - **Origen**: Una de les primeres *timeline* que es té notícia és la feta per Joseph Priestley el 1765 en la qual hi mostrava els filòsofs més importants des del 600 aC fins l'any 0, tal com es desprèn de la tesi d'[Huron (2015)](https://theses.hal.science/tel-02924469/).
+
 - **Descripció i funcionament**:
 - **Exemples d'aplicació**:
 
