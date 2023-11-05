@@ -7,3 +7,4 @@ En aquesta pàgina s'hi mostren les tres tècniques de visualització assignades
 
 - [Timeline](timeline.html)
 - [Circular dendrogram](circular_dendrogram.html)
+- [Contour](contour.html)

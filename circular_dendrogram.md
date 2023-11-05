@@ -25,7 +25,7 @@ Imatge extreta de *VIII. Mathematical contributions to the theory evolution. —
 
 ### Tipus de dades
 
-El tipus de dades necessàries per a representar un dendrograma poden ser qualitatives i quantitatives, però amb la condició que hi hagi una relació entre elles que les connecti. Això vol dir que cada registre ha de representar un node, ja sigui l'origen, un d'intermig o el darrer, és a dir, que cada categoria pot tenir sub-categories. Ara bé, les dades d'inici sobre les quals s'hi apliquen algoritmes de classificació jeràrquica poden ser molt variades.
+El tipus de dades necessàries per a representar un dendrograma poden ser qualitatives i quantitatives, però amb la condició que hi hagi una relació entre elles que les connecti. Això vol dir que cada registre ha de representar un node, ja sigui l'origen, un d'intermig o el darrer, és a dir, que cada categoria pot tenir sub-categories. Ara bé, les dades d'inici sobre les quals s'hi apliquen algoritmes de classificació jeràrquica poden ser molt variades. Pel que fa a les limitacions un excés de categories i sub-categories podria complicar-ne la interpretació.
 
 ### Representació per a la PAC
 
