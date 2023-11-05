@@ -23,3 +23,4 @@ En aquest cas he optat per una línia del temps amb els Papes de l'església cat
 
 <iframe src="https://ecasellas.github.io/uoc-visualitzacio/timeline/timeline.html" frameborder="0" width="100%" height="520"></iframe>
 
+El codi d'aquesta figura s'ha realitzat mitjançant [Google Charts](http://developers.google.com/chart/) i es pot trobar a [timeline.js](https://github.com/ecasellas/uoc-visualitzacio/tree/main/timeline)
