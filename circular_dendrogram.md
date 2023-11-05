@@ -23,6 +23,8 @@ Imatge extreta de *VIII. Mathematical contributions to the theory evolution. —
 - Taxonomia.
 - Exploració de dades i anàlisi de relacions.
 
+Informació extreta de [Medium-Dendrograms](https://medium.com/@HeCanThink/dendrograms-the-hierarchical-portrait-of-data-%EF%B8%8F-bc97c7820599), [data-to-viz](https://www.data-to-viz.com/graph/dendrogram.html) i [R-graph-gallery](https://r-graph-gallery.com/339-circular-dendrogram-with-ggraph.html).
+
 ### Tipus de dades
 
 El tipus de dades necessàries per a representar un dendrograma poden ser qualitatives i quantitatives, però amb la condició que hi hagi una relació entre elles que les connecti. Això vol dir que cada registre ha de representar un node, ja sigui l'origen, un d'intermig o el darrer, és a dir, que cada categoria pot tenir sub-categories. Ara bé, les dades d'inici sobre les quals s'hi apliquen algoritmes de classificació jeràrquica poden ser molt variades. Pel que fa a les limitacions un excés de categories i sub-categories podria complicar-ne la interpretació.

@@ -21,6 +21,8 @@ Primera tècnica per a la segona PAC.
 - Representar un workflow, que segueix diversos passos.
 - Representar sèries temporals, com per exemple mostrar l'evolució del preu de l'energia al llarg del darrer mes.
 
+Informació extreta de [Google Timelines](https://developers.google.com/chart/interactive/docs/gallery/timeline).
+
 ### Tipus de dades
 
 Poden ser qualitatives o quantitatives sempre que tinguin associades una cronologia, ja sigui en forma de pas o de data. Pel que fa a les dades quantitatives hi ha un mínim de dos registres per tal de poder traçar una línia, però no hi hauria màxim. En el cas de dades qualitatives, també seria recomanable que hi hagués més d'una categoria o element. En general, no presentaria un límit màxim de categories, però sí que un excés d'elements podria suposar una reducció de la llegibilitat o comprensió.

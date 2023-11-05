@@ -23,6 +23,8 @@ Imatge extreta de [Morato-Moreno, 2017](https://bage.age-geografia.es/ojs/index.
 - Mapes relacionats amb variables meteorològiques: temperatura, humitat, i precipitació, entre moltes d'altres.
 - Gràfiques que mostres la resposta d'una variable Z en funció d'altres dues variables (X i Y).
 
+Informació extreta de [itl-nist](https://www.itl.nist.gov/div898/handbook/eda/section3/contour.htm).
+
 ### Tipus de dades
 
 Aquest tipus de visualització requereix de dades tridimensionals i que siguin contínues, per tal de poder traçar contorns per valors iguals. Han de ser, forçosament en aquest cas, variables quantitatives. Dues dimensions que representin localització o coordenades i la tercera els valors d’una variable per cada coordenada. Ara bé, els espais resultants entre dos contorns sí que pot tenir un caràcter qualitatiu.
