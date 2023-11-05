@@ -5,7 +5,7 @@ function drawChart() {
   var chart = new google.visualization.Timeline(container);
   var dataTable = new google.visualization.DataTable();
 
-  dataTable.addColumn({ type: 'string', id: 'Pope' , width: '250px'});
+  dataTable.addColumn({ type: 'string', id: 'Pope' , width: '150px'});
   dataTable.addColumn({ type: 'date', id: 'Start' });
   dataTable.addColumn({ type: 'date', id: 'End' });
   dataTable.addRows([
