@@ -1,6 +1,8 @@
 ---
 layout: home
-title: PAC2
+title: Tècniques de visualització
 ---
 
-- [PAC 2](pac2.html)
+En aquesta pàgina s'hi mostren les tres tècniques de visualització assignades per a la PAC 2.
+
+- [Timeline](timeline.html)
